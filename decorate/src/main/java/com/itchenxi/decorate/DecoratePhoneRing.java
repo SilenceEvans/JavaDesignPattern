@@ -1,7 +1,6 @@
 package com.itchenxi.decorate;
 
 public class DecoratePhoneRing extends DecoratePhone {
-
     DecoratePhoneRing(Phone p) {
         super(p);
     }
